@@ -25,5 +25,5 @@ Justin’s commit updated StaffMember.java by completing several missing parts o
 class. He made the class public, finished the constructor to properly store employee
 information, implemented the toString() method, and added the pay() method. These changes
 were important because they finalized the base class that other employee types depend on in
-the agency payroll system.
+the agency payroll system.s
 
