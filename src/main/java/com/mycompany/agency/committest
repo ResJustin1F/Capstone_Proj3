@@ -7,6 +7,15 @@ test3-mf
 commented and understanding the code my groupmates did. Did this on monday
 edward
 
+Agency.java — Run the main method and verify that it creates a Staff object and successfully
+executes the payroll process for all employees.
+
+Executive.java — Create an Executive, award a bonus using awardBonus(), and verify that pay()
+returns the base pay plus the awarded bonus.
+
+Intern.java — Create an Intern object and verify that calling pay() returns 0 since interns
+are unpaid.
+
 Staff.java — Creates a list of different staff members and verifies that the payday() method
 correctly processes and prints each employee’s payment.
 
@@ -18,8 +27,6 @@ provides common functionality for all employee types.
 
 TempEmployee.java — Creates an hourly temporary employee, adds worked hours using addHours(),
 and verifies that pay() correctly calculates pay based on hours worked and the pay rate.
-
-
 
 Justin’s commit updated StaffMember.java by completing several missing parts of the
 class. He made the class public, finished the constructor to properly store employee
