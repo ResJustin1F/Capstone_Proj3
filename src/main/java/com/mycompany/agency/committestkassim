@@ -1,0 +1,24 @@
+Test Case Usage Summary
+
+Agency.java:
+Run the main method to verify that it creates a Staff object and triggers the payroll process.
+
+Staff.java:
+Verify that payday() correctly iterates through all StaffMember objects and calls their pay methods.
+
+StaffMember.java:
+Verify that subclasses correctly inherit shared employee behavior.
+
+Executive.java:
+Create an Executive, award a bonus, and verify pay includes base salary plus bonus.
+
+Intern.java:
+Create an Intern and verify that pay returns zero or the expected stipend.
+
+TempEmployee.java:
+Create a TempEmployee with assigned hours and verify pay is calculated correctly.
+
+Commit Review:
+I reviewed the commit "added 6 employees to Staff.java" by Matthew.
+This commit includes multiple changes by adding different employee types to the staff list,
+allowing the payroll system to demonstrate polymorphism during execution.
