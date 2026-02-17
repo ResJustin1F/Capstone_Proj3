@@ -16,7 +16,7 @@ public class Staff
 
         // TODO 1: Add 6 emploees to the staffList
 
-        staffList[0] = new Executive("Laila", "21 Jump Street", "(281) 826-3068" , "465-73-5022", 21400.5);
+        staffList[0] = new Executive("Laila", "21 Jump Street", "(281) 826-3068" , "465-73-5022", 21400.50);
         staffList[1] = new StaffEmployee("Aaliyah" , "1177 Fortworth Drive", "(914) 632-1188", "559-81-1301", 1520.12);
         staffList[2] = new Intern("Sabastian" , "23 Twig Lane", "(662) 420-7597");
         staffList[3] = new TempEmploee("Dylan", "Never Here Road", "(630) 759-0287", "505-88-5714", 17.50);
