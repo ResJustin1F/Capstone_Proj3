@@ -44,6 +44,6 @@ public class TempEmploee extends StaffEmployee
     //-----------------------------------------------------------------
     public String toString()
     {
-        return super.toString() + "\n" + "SSN: " + socialSecurityNumber;
+        return super.toString();
     }
 }
