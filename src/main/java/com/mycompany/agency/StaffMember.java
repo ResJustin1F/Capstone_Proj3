@@ -36,6 +36,6 @@ public class StaffMember //StaffMember is class
     //  employee.
     //-----------------------------------------------------------------
     public double pay() {
-        return 0;
+        return 0 ; //fix to pay
     }
 }

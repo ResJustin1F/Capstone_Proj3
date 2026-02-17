@@ -2,8 +2,7 @@ package com.mycompany.agency;
 
 
 
-    // TODO 1: Make Intern a child of StaffEmployee
-    // Note from Jamal: Intern is a child of StaffMember, not StaffEmployee
+    // TODO 1: Make Intern a child of StaffEmploee
 
 public class Intern extends StaffMember
 {
@@ -21,6 +20,6 @@ public class Intern extends StaffMember
     //-----------------------------------------------------------------
     public double pay()
     {
-      return 0.0;
+        return 0.0;
     }
 }
