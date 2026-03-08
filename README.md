@@ -1,3 +1,3 @@
-# Capstone_Proj3
+# Module3
 
 #committest file is used for GitHub testing purposes
